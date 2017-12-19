@@ -1,0 +1,25 @@
+{
+  "name": "log4jswrapper",
+  "version": "0.0.1",
+  "description": "log4js封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnotnull/log4jswrapper.git"
+  },
+  "keywords": [
+    "fetch"
+  ],
+  "author": "jnotnull",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnotnull/log4jswrapper/issues"
+  },
+  "homepage": "https://github.com/jnotnull/log4jswrapper#readme",
+  "dependencies": {
+    "log4js": "^2.3.11"
+  }
+}
